@@ -1,0 +1,27 @@
+{
+  "name": "microservice",
+  "version": "1.0.0",
+  "description": "microservice tuto",
+  "main": "index.js",
+  "dependencies": {
+    "micro": "^9.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriengodoy/node_micro.git"
+  },
+  "keywords": [
+    "microservice"
+  ],
+  "author": "Adr_Godoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriengodoy/node_micro/issues"
+  },
+  "homepage": "https://github.com/adriengodoy/node_micro#readme"
+}
